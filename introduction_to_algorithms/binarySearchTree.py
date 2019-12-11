@@ -18,9 +18,11 @@ class BST:
             bef = self.root.p
             while(cur!=None):
                 bef = cur
-                if(key<cur.key):
+                if(key==cur.key):
+                    return
+                elif(key<cur.key):
                     cur=cur.left
-                else:
+                elif(key>cur.key):
                     cur=cur.right
             if(key < bef.key):
                 bef.left = newNode
@@ -41,27 +43,12 @@ class BST:
         if(x==None):
             return None
         if(x.left == None and x.right == None):
-            if(x.p==None):
-                self.root = None
-            if(x.p.left == x):
-                x.p.left = None
-            else:
-                x.p.right = None
+            self.transplant(x, x.right)
         elif(x.left == None or x.right == None):
             if(x.left == None):
-                if(x.p == None):
-                    self.root = x.right
-                elif(x.p.left == x):
-                    x.p.left = x.right
-                else:
-                    x.p.right = x.right
+                self.transplant(x, x.right)
             else:
-                if(x.p==None):
-                    self.root = x.left
-                elif (x.p.left == x):
-                    x.p.left = x.left
-                else:
-                    x.p.right = x.left
+                self.transplant(x, x.left)
         else:
             y = self.treeMinimum(x.right)
             if (y.p!=x):
@@ -127,6 +114,16 @@ bst.insert(1)
 bst.insert(3)
 bst.insert(2)
 bst.insert(4)
+bst.insert(5)
+bst.insert(1)
+bst.insert(3)
+bst.insert(2)
+bst.insert(4)
+bst.insert(5)
+bst.insert(1)
+bst.insert(3)
+bst.insert(2)
+bst.insert(4)
 
 bst.print()
 
@@ -149,4 +146,19 @@ bst.delete(5)
 bst.delete(1)
 bst.delete(2)
 bst.delete(4)
+bst.insert(7)
+bst.insert(8)
+bst.insert(10)
+bst.insert(12)
+bst.insert(11)
+bst.insert(5)
+bst.insert(2)
+bst.insert(4)
+bst.print()
+bst.delete(7)
+bst.delete(8)
+bst.delete(10)
+bst.delete(11)
+bst.delete(5)
+bst.insert(2)
 bst.print()
