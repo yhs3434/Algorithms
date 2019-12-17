@@ -1,3 +1,6 @@
+# 예산
+# https://programmers.co.kr/learn/courses/30/lessons/43237
+
 def solution(budgets, M):
     answer = 0
 
@@ -18,17 +21,24 @@ def solution(budgets, M):
             right = mid - 1
         else:
             return budgets[mid]
-    gap = budget - M
-    print(budget, M)
-    if(gap >= 0):
-        if(mid>=(length-1)):
-            return budgets[-1]
-        answer = budgets[mid+1] - (gap//(length-mid+1)) - 1
+    print(left, mid, right, budget, M)
+    if(left>mid):
+        if(mid==length-1):
+            answer = budgets[mid]
+        else:
+            gap = M-budget
+            rVol = length - mid -1
+            answer = budgets[mid] + (gap // rVol)
     else:
-        answer = budgets[mid] + ((-gap)//(length-mid))
+        gap = budget - M
+        rVol = length - mid
+        if(gap%rVol==0):
+            answer = budgets[mid] - (gap//rVol)
+        else:
+            answer = budgets[mid] - (gap // rVol) - 1
     return answer
 
 def getBudget(budgets, idx):
     return sum(budgets[:idx]) + (len(budgets)-idx)*budgets[idx]
 
-print(solution([120, 110, 140, 150],500))
+print(solution([120, 110, 140, 150],599))
