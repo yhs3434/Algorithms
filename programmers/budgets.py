@@ -6,11 +6,12 @@ def solution(budgets, M):
 
     left = 0
     right = length - 1
+    mid = 0
     budget = 0
 
     while(left<=right):
         mid = (left+right)//2
-        budget = sum(budgets[:mid])+(length-mid)*budgets[mid]
+        budget = getBudget(budgets, mid)
         if(budget<M):
             left = mid + 1
         elif(budget>M):
@@ -18,14 +19,16 @@ def solution(budgets, M):
         else:
             return budgets[mid]
     gap = budget - M
-    if(left>=length):
-        return budgets[left-1]
-    elif(right<0):
-        return budgets[left] + ((-gap)//(length-left))
+    print(budget, M)
     if(gap >= 0):
-        answer = budgets[left] - (gap//(length-left)) - 1
+        if(mid>=(length-1)):
+            return budgets[-1]
+        answer = budgets[mid+1] - (gap//(length-mid+1)) - 1
     else:
-        answer = budgets[left] + ((-gap)//(length-left))
+        answer = budgets[mid] + ((-gap)//(length-mid))
     return answer
 
-print(solution([120, 110, 140, 150,170,200,130], 399))
+def getBudget(budgets, idx):
+    return sum(budgets[:idx]) + (len(budgets)-idx)*budgets[idx]
+
+print(solution([120, 110, 140, 150],500))

@@ -1,14 +1,16 @@
 class Node:
-    def __init__(self, color, key):
+    def __init__(self, color, seg):
         self.p = None
         self.left = None
         self.right = None
         self.color = color
-        self.key = key
+        self.key = seg[0]
+        self.int = seg
+        self.max = seg[-1]
 
 class RedBlackTree:
     def __init__(self):
-        self.none = Node('BLACK', None)
+        self.none = Node('BLACK', None, [0])
         self.root = self.none
 
     def leftRotate(self, x):
@@ -186,9 +188,26 @@ class RedBlackTree:
                     x = self.root
         x.color = 'BLACK'
 
-tree = RedBlackTree()
-tree.insert(Node(None, 10))
-tree.insert(Node(None, 3))
-tree.insert(Node(None, 5))
-tree.insert(Node(None, 12))
-tree.insert(Node(None, 16))
+    def initMax(self, x):
+        if(x == self.none):
+            return 0
+        x = self.root
+        x.max = max(x.int[-1], self.initMax(x.left), self.initMax(x.right))
+        return x.max
+
+    def intervalSearch(self, i):
+        x = self.root
+        while (x!=self.none and self.isOverlap(i, x.int)==False):
+            if (x.left != self.none and x.left.max >= i[0]):
+                x = x.left
+            else
+                x = x.right
+        return x
+
+    def isOverlap(self, x, y):
+        flag = False
+        if(x[0] in y):
+            flag = True
+        elif(x[-1] in y):
+            flag = True
+        return flag
