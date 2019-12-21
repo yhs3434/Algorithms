@@ -6,6 +6,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea
+.Test
 
 # User-specific stuff
 .idea/**/workspace.xml
@@ -110,5 +111,6 @@ ENV/
 env.bak/
 venv.bak/
 pip-selfcheck.json
+Test/
 
 # End of https://www.gitignore.io/api/pycharm
