@@ -112,5 +112,6 @@ env.bak/
 venv.bak/
 pip-selfcheck.json
 Test/
+a_solving/
 
 # End of https://www.gitignore.io/api/pycharm
