@@ -15,9 +15,10 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/matrixMultiplication.py">행렬의 곱셈</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/stringReverseSort.py">문자열 내림차순으로 배치하기</a></li>
     
+    
 </ul>
 
 ## 백준
 <ul>
-    <li>업데이트 예정</li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py">회의실 배정</a></li>
 </ul>
