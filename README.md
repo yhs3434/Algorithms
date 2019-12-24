@@ -38,6 +38,7 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/rightRect.py">멀쩡한 사각형</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/scale.py">저울</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfTwoNum.py">두 정수 사이의 합</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/theShortedGameMap.py">게임 맵 최단거리</a></li>
     
 </ul>
 
