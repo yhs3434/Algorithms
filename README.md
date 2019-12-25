@@ -46,6 +46,9 @@
 <ul>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/chuseokTraffic.py">[1차] 추석 트래픽</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/newsClustering.py">[1차] 뉴스 클러스터링</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/shuttleBus.py">[1차] 셔틀 버스</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/friends4Block.py">[1차] 프렌즈4블록</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/cache.py">[1차] 캐시</a></li>
     
 </ul>
 
