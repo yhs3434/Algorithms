@@ -54,6 +54,8 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/justThatMusic.py">[3차] 방금그곡</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/compression.py">[3차] 압축</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/autoComplete.py">[3차] 자동완성</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/fileNameSort.py">[3차] 파일명 정렬</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/nNumberGame.py">[3차] n진수 게임</a></li>
 </ul>
 
 ## 백준
