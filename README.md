@@ -51,6 +51,7 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/cache.py">[1차] 캐시</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/secretMap.py">[1차] 비밀지도</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/dartGame.py">[1차] 다트 게임</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/justThatMusic.py">[3차] 방금그곡</a></li>
 </ul>
 
 ## 백준
