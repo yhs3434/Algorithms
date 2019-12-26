@@ -60,7 +60,7 @@
 
 #### 2019 KAKAO BLIND RECRUITMENT
 <ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019 KAKAO BLIND RECRUITMENT/candidiateKey.py">후보키</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/candidateKey.py">후보키</a></li>
 </ul>
 
 ## 백준
