@@ -61,6 +61,8 @@
 #### 2019 KAKAO BLIND RECRUITMENT
 <ul>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/candidateKey.py">후보키</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/muziEatLive.py">무지의 먹방 라이브</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/findPathGame.py">길 찾기 게임</a></li>
 </ul>
 
 ## 백준
