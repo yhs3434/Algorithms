@@ -58,6 +58,11 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/nNumberGame.py">[3차] n진수 게임</a></li>
 </ul>
 
+#### 2019 KAKAO BLIND RECRUITMENT
+<ul>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019 KAKAO BLIND RECRUITMENT/candidiateKey.py">후보키</a></li>
+</ul>
+
 ## 백준
 <ul>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py">회의실 배정</a></li>
