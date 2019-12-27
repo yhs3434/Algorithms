@@ -30,7 +30,7 @@
 
 #### 2017 팁스타운
 <ul>
-    <li><a>짝지어 제거하기</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py">짝지어 제거하기</a></li>
 </ul>
 
 #### etc
