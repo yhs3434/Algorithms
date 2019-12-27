@@ -66,6 +66,9 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/scale.py">저울</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfTwoNum.py">두 정수 사이의 합</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/theShortedGameMap.py">게임 맵 최단거리</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/stringMySort.py">문자열 내 마음대로 정렬하기</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/pyString.py">문자열 내 p와 y의 개수</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfAliquot.py">약수의 합</a></li>
     
 </ul>
 
