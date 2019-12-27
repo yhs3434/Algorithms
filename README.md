@@ -25,6 +25,7 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/muziEatLive.py">무지의 먹방 라이브</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/findPathGame.py">길 찾기 게임</a></li>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/matchingScore.py">매칭 점수</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/blockGame.py">블록게임</a></li>
 </ul>
 
 #### etc
