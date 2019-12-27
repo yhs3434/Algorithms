@@ -28,6 +28,11 @@
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/blockGame.py">블록게임</a></li>
 </ul>
 
+#### 2017 팁스타운
+<ul>
+    <li><a>짝지어 제거하기</a></li>
+</ul>
+
 #### etc
 <ul>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/steppingStone.py">징검다리</a></li>
