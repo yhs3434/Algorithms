@@ -1,39 +1,37 @@
 # 문제 찾기
-<br/>
 
 ## 프로그래머스
 
 #### 2018 KAKAO BLIND RECRUITMENT
-<ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/chuseokTraffic.py">[1차] 추석 트래픽</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/newsClustering.py">[1차] 뉴스 클러스터링</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/shuttleBus.py">[1차] 셔틀 버스</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/friends4Block.py">[1차] 프렌즈4블록</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/cache.py">[1차] 캐시</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/secretMap.py">[1차] 비밀지도</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/dartGame.py">[1차] 다트 게임</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/justThatMusic.py">[3차] 방금그곡</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/compression.py">[3차] 압축</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/autoComplete.py">[3차] 자동완성</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/fileNameSort.py">[3차] 파일명 정렬</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2018 KAKAO BLIND RECRUITMENT/nNumberGame.py">[3차] n진수 게임</a></li>
-</ul>
+
+- [[1차] 추석 트래픽](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/chuseokTraffic.py)
+- [[1차] 뉴스 클러스터링](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/newsClustering.py)
+- [[1차] 셔틀 버스](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/shuttleBus.py)
+- [[1차] 프렌즈4블록](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/friends4Block.py)
+- [[1차] 캐시](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/cache.py)
+- [[1차] 비밀지도](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/secretMap.py)
+- [[1차] 다트 게임](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/dartGame.py)
+- [[3차] 방금그곡](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/justThatMusic.py)
+- [[3차] 압축](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/compression.py)
+- [[3차] 자동완성](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/autoComplete.py)
+- [[3차] 파일명 정렬](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/fileNameSort.py)
+- [[3차] n진수 게임](https://github.com/yhs3434/Algorithms/tree/master/programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/nNumberGame.py)
 
 #### 2019 KAKAO BLIND RECRUITMENT
-<ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/candidateKey.py">후보키</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/muziEatLive.py">무지의 먹방 라이브</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/findPathGame.py">길 찾기 게임</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/matchingScore.py">매칭 점수</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/blockGame.py">블록게임</a></li>
-</ul>
 
-#### 2017 팁스타운
-<ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py">짝지어 제거하기 (stack)</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/expectMatchList.py">예상 대진표 (heap)</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/wordPuzzle.py">**단어 퍼즐** (DP)</a></li>
-</ul>
+- [후보키](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/candidateKey.py)
+- [무지의 먹방 라이브](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/muziEatLive.py)
+- [길 찾기 게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/findPathGame.py)
+- [매칭 점수](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/matchingScore.py)
+- [블록게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/blockGame.py)
+
+
+#### 2017 TIPS TOWN
+
+- [짝지어 제거하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py) (stack)
+- [예상 대진표](https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/expectMatchList.py) (heap)
+- [* 단어 퍼즐](https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/wordPuzzle.py) (DP)
+
 
 #### etc
 <ul>
@@ -82,8 +80,7 @@
 
 
 ## 백준
-<ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py">회의실 배정</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/baekjun/thiefFruits.py">과일 서리</a></li>
+
+- [회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py)
+- [과일 서리](https://github.com/yhs3434/Algorithms/blob/master/baekjun/thiefFruits.py)
     
-</ul>
