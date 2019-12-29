@@ -30,8 +30,9 @@
 
 #### 2017 팁스타운
 <ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py">짝지어 제거하기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/expectMatchList.py">예상 대진표</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py">짝지어 제거하기 (stack)</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/expectMatchList.py">예상 대진표 (heap)</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/wordPuzzle.py">**단어 퍼즐** (DP)</a></li>
 </ul>
 
 #### etc
