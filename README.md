@@ -31,6 +31,7 @@
 #### 2017 팁스타운
 <ul>
     <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py">짝지어 제거하기</a></li>
+    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/expectMatchList.py">예상 대진표</a></li>
 </ul>
 
 #### etc
