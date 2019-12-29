@@ -27,7 +27,7 @@
 
 #### 2020 KAKAO BLIND RECRUITMENT
 
-- [문자열 압축]()
+- [문자열 압축](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/compressString.py)
 
 #### 2017 TIPS TOWN
 
