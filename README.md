@@ -25,6 +25,9 @@
 - [매칭 점수](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/matchingScore.py)
 - [블록게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/blockGame.py)
 
+#### 2020 KAKAO BLIND RECRUITMENT
+
+- [문자열 압축]()
 
 #### 2017 TIPS TOWN
 
