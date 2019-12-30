@@ -30,6 +30,7 @@
 - [문자열 압축](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/compressString.py)
 - [자물쇠와 열쇠](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/lockAndKey.py)
 - [가사 검색](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/lyricsSearch.py)
+- [기둥과 보 설치](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/pillarAndBo.py)
 
 #### 2017 TIPS TOWN
 
