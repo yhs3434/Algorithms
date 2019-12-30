@@ -95,5 +95,5 @@
     
 #### 단계별 풀기
 
-- [LV1]()
-- [LV2]()
+- [level 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv1)
+- [level 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv2)
