@@ -84,6 +84,8 @@
     
 </ul>
 
+- [멀리 뛰기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longJump.py)
+
 
 
 ## 백준
