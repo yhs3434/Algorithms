@@ -41,7 +41,7 @@
 
 #### 서머코딩 / 윈터코딩 (~2018)
 
-- [예산]()
+- [예산](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/budget2.py)
 
 #### etc
 <ul>
@@ -88,7 +88,7 @@
 </ul>
 
 - [멀리 뛰기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longJump.py)
-- [행렬의 덧셈]()
+- [행렬의 덧셈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/matrixAdd.py)
 
 
 ## 백준
