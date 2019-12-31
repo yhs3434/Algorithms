@@ -29,10 +29,10 @@
 
 - [문자열 압축](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/compressString.py)
 - [자물쇠와 열쇠](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/lockAndKey.py)
-- [가사 검색](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/lyricsSearch.py)
+- [가사 검색](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/lyricsSearch.py) (hash)
 - [기둥과 보 설치](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/pillarAndBo.py)
-- [괄호 변환](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/convertParenthesis.py)
-- [외벽 점검](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/inspectOutsideWall.py)
+- [괄호 변환](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/convertParenthesis.py) (stack)
+- [외벽 점검](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/inspectOutsideWall.py) (Brute Force, BFS)
 
 #### 2017 TIPS TOWN
 
@@ -43,6 +43,7 @@
 #### 서머코딩 / 윈터코딩 (~2018)
 
 - [예산](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/budget2.py)
+- [영어 끝말잇기](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/englishLastWord.py)
 
 #### etc
 <ul>
@@ -90,7 +91,7 @@
 
 - [멀리 뛰기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longJump.py)
 - [행렬의 덧셈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/matrixAdd.py)
-
+- [N개의 최소공배수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/NleastCommonMultiple.py)
 
 ## 백준
 
