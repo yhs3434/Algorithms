@@ -96,6 +96,10 @@
 - [행렬의 덧셈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/matrixAdd.py)
 - [N개의 최소공배수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/NleastCommonMultiple.py)
 - [2 x n 타일링](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/2xNTiling.py) (DP)
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/xGapNnumber.py)
+- [이상한 문자 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/strangeStr.py)
+- [자릿수 더하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/addCipher.py)
+- [가장 먼 노드](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longestNode.py)
 
 ## 백준
 
