@@ -19,6 +19,8 @@
 
 #### 2019 KAKAO BLIND RECRUITMENT
 
+- [오픈채팅방](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/openChat.py)
+- [실패율](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/failRate.py)
 - [후보키](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/candidateKey.py)
 - [무지의 먹방 라이브](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/muziEatLive.py)
 - [길 찾기 게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/findPathGame.py)
@@ -99,7 +101,7 @@
 - [x만큼 간격이 있는 n개의 숫자](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/xGapNnumber.py)
 - [이상한 문자 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/strangeStr.py)
 - [자릿수 더하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/addCipher.py)
-- [가장 먼 노드](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longestNode.py)
+- [가장 먼 노드](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longestNode.py) (hash, BFS)
 
 ## 백준
 
