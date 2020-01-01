@@ -33,6 +33,7 @@
 - [기둥과 보 설치](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/pillarAndBo.py)
 - [괄호 변환](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/convertParenthesis.py) (stack)
 - [외벽 점검](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/inspectOutsideWall.py) (Brute Force, BFS)
+- [블록 이동하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/moveBlock.py)
 
 #### 2017 TIPS TOWN
 
