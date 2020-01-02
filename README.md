@@ -123,8 +123,13 @@
 - [평균 구하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/getMean.py)
 - [하샤드 수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/hashad.py)
 - [다음 큰 숫자](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nextBigNum.py)
-- [* 땅따먹기]()
-- [숫자의 표현]()
+- [* 땅따먹기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/eatLand.py)
+- [숫자의 표현](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/expressNum.py)
+- [최댓값과 최솟값]()
+- [최솟값 만들기]()
+- [피보나치 수]()
+- [JadenCase 문자열 만들기]()
+
 
 ## 백준
 
