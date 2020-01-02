@@ -57,8 +57,8 @@
 
 #### 찾아라 프로그래밍 마에스터
 
-- [게임 맵 최단거리]()
-- [폰켓몬]()
+- [게임 맵 최단거리](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/theShortedGameMap.py)
+- [폰켓몬](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/ponketmon.py)
 
 #### etc
 <ul>
