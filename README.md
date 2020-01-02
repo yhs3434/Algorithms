@@ -113,13 +113,16 @@
 - [이상한 문자 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/strangeStr.py)
 - [자릿수 더하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/addCipher.py)
 - [가장 먼 노드](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longestNode.py) (hash, BFS)
-- [자연수 뒤집어 배열로 만들기]()
-- [정수 내림차순으로 배치하기]()
-- [정수 제곱근 판별]()
-- [제일 작은 수 제거하기]()
-- [짝수와 홀수]()
-- [최대공약수와 최소공배수]()
-
+- [자연수 뒤집어 배열로 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/reverseNumber.py)
+- [정수 내림차순으로 배치하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/numberReverseSort.py)
+- [정수 제곱근 판별](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/checkSquare.py)
+- [제일 작은 수 제거하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/removeSmallest.py)
+- [짝수와 홀수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/evenAndOdd.py)
+- [최대공약수와 최소공배수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/getCommons.py)
+- [콜라츠 추측]()
+- [평균 구하기]()
+- [하샤드 수]()
+- [다음 큰 숫자]()
 
 ## 백준
 
