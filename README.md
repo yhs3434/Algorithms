@@ -52,7 +52,13 @@
 - [배달](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/delivery.py) (BFS, 최단 경로)
 - [스티커 모으기(2)](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/stickerCollector.py) (DP)
 - [소수 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/primeNumberMaking.py) (BF, 에라토스테네스의 체)
-- [기지국 설치](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/baseStationInstall.py) (단순 연산)
+- [기지국 설치](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/baseStationInstall.py)
+- [점프와 순간 이동](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/jumpAndTeleport.py)
+
+#### 찾아라 프로그래밍 마에스터
+
+- [게임 맵 최단거리]()
+- [폰켓몬]()
 
 #### etc
 <ul>
