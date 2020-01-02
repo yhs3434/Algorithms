@@ -122,3 +122,14 @@
 
 - [level 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv1)
 - [level 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv2)
+
+## 알고리즘 문제해결 전략
+
+1. 문제 해결과 프로그래밍 대회
+    1. [록 페스티벌]()
+    
+    
+<br/><br/><br/>
+# 내 마음을 움직인 영상
+
+[![Video Label](http://img.youtube.com/vi/btfuIz3qrSE/0.jpg)](https://youtu.be/btfuIz3qrSE)
