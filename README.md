@@ -119,10 +119,12 @@
 - [제일 작은 수 제거하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/removeSmallest.py)
 - [짝수와 홀수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/evenAndOdd.py)
 - [최대공약수와 최소공배수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/getCommons.py)
-- [콜라츠 추측]()
-- [평균 구하기]()
-- [하샤드 수]()
-- [다음 큰 숫자]()
+- [콜라츠 추측](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/guessCollatz.py)
+- [평균 구하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/getMean.py)
+- [하샤드 수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/hashad.py)
+- [다음 큰 숫자](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nextBigNum.py)
+- [* 땅따먹기]()
+- [숫자의 표현]()
 
 ## 백준
 
