@@ -130,7 +130,9 @@
 - [피보나치 수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/makeFibonacci.py)
 - [JadenCase 문자열 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/JadenCase.py)
 - [하노이의 탑]()
-- [가장 긴 팰린드롬]()
+- [가장 긴 팰린드롬]() (이분 탐색)
+- [야근 지수]() (hash)
+- [숫자 게임]() (이분 탐색)
 
 ## 백준
 
