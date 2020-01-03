@@ -133,9 +133,9 @@
 - [가장 긴 팰린드롬](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longestPalindrome.py) (이분 탐색)
 - [야근 지수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/overtimeIndex.py) (hash)
 - [숫자 게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/numberGame.py) (이분 탐색)
-- [최고의 집합]()
-- [줄 서는 방법]()
-- [N-Queen]()
+- [최고의 집합](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/greatSet.py)
+- [줄 서는 방법](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/lineCase.py)
+- [N-Queen](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nQueen.py)
 
 ## 백준
 
@@ -149,7 +149,7 @@
 
 ## SW Expert Academy
 
-- [1767. 프로세서 연결하기]()
+- [1767. 프로세서 연결하기](https://github.com/yhs3434/Algorithms/blob/master/SW%20Expert%20Academy/1767.processConnect.py)
 
 ## 알고리즘 문제해결 전략
 
