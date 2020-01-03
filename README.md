@@ -129,10 +129,13 @@
 - [최솟값 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/makeMin.py)
 - [피보나치 수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/makeFibonacci.py)
 - [JadenCase 문자열 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/JadenCase.py)
-- [하노이의 탑]()
-- [가장 긴 팰린드롬]() (이분 탐색)
+- [하노이의 탑](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/hanoyTop.py)
+- [가장 긴 팰린드롬](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longestPalindrome.py) (이분 탐색)
 - [야근 지수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/overtimeIndex.py) (hash)
-- [숫자 게임]() (이분 탐색)
+- [숫자 게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/numberGame.py) (이분 탐색)
+- [최고의 집합]()
+- [줄 서는 방법]()
+- [N-Queen]()
 
 ## 백준
 
@@ -143,6 +146,10 @@
 
 - [level 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv1)
 - [level 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv2)
+
+## SW Expert Academy
+
+- [1767. 프로세서 연결하기]()
 
 ## 알고리즘 문제해결 전략
 
