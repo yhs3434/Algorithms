@@ -125,11 +125,12 @@
 - [다음 큰 숫자](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nextBigNum.py)
 - [* 땅따먹기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/eatLand.py)
 - [숫자의 표현](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/expressNum.py)
-- [최댓값과 최솟값]()
-- [최솟값 만들기]()
-- [피보나치 수]()
-- [JadenCase 문자열 만들기]()
-
+- [최댓값과 최솟값](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/maxAndMin.py)
+- [최솟값 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/makeMin.py)
+- [피보나치 수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/makeFibonacci.py)
+- [JadenCase 문자열 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/JadenCase.py)
+- [하노이의 탑]()
+- [가장 긴 팰린드롬]()
 
 ## 백준
 
