@@ -62,49 +62,43 @@
 - [폰켓몬](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/ponketmon.py)
 
 #### etc
-<ul>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/steppingStone.py">징검다리</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/budgets.py">예산</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/seoulToKyungsan.py">서울에서 경산까지</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/convertWord.py">단어 변환</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/travelRoute.py">여행경로</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/convertParenthesis.py">괄호 변환</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/theLargestSquare.py">가장 큰 정사각형 찾기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/skillTree.py">스킬트리</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/lyricsSearch.py">가사 검색</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/matrixMultiplication.py">행렬의 곱셈</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/stringReverseSort.py">문자열 내림차순으로 배치하기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/ponketmon.py">폰켓몬</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/124.py">124 나라의 숫자</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/2016year.py">2016년</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/availToDivideNumberArray.py">나누어 떨어지는 숫자 배열</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/caesarCipher.py">시저 암호</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/camera.py">단속 카메라</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/changeStrToInt.py">문자열을 정수로 바꾸기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/entryJudge.py">입국심사</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/expressN.py">N으로 표현</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/findKimInTheSeoul.py">서울에서 김서방 찾기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/findPrimeNumber.py">소수 찾기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/h-index.py#L14">H-Index</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/handleString.py">문자열 다루기 기본</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/joystick.py">조이스틱</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/linkIsland.py">섬 연결하기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/makeBigNum.py">큰 수 만들기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/maxNumber.py">가장 큰 수</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/midLecture.py">가운데 글자 가져오기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/network.py">네트워크</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/noSameNumber.py">같은 숫자는 싫어</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/parenthesis.py">올바른 괄호</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/rightRect.py">멀쩡한 사각형</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/scale.py">저울</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfTwoNum.py">두 정수 사이의 합</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/theShortedGameMap.py">게임 맵 최단거리</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/stringMySort.py">문자열 내 마음대로 정렬하기</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/pyString.py">문자열 내 p와 y의 개수</a></li>
-    <li><a href="https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfAliquot.py">약수의 합</a></li>
-    
-</ul>
 
+- [징검다리](https://github.com/yhs3434/Algorithms/blob/master/programmers/steppingStone.py)
+- [예산](https://github.com/yhs3434/Algorithms/blob/master/programmers/budgets.py)
+- [서울에서 경산까지](https://github.com/yhs3434/Algorithms/blob/master/programmers/seoulToKyungsan.py)
+- [단어 변환](https://github.com/yhs3434/Algorithms/blob/master/programmers/convertWord.py)
+- [여행경로](https://github.com/yhs3434/Algorithms/blob/master/programmers/travelRoute.py)
+- [괄호 변환](https://github.com/yhs3434/Algorithms/blob/master/programmers/convertParenthesis.py)
+- [가장 큰 정사각형 찾기](https://github.com/yhs3434/Algorithms/blob/master/programmers/theLargestSquare.py)
+- [스킬트리](https://github.com/yhs3434/Algorithms/blob/master/programmers/skillTree.py)
+- [행렬의 곱셈](https://github.com/yhs3434/Algorithms/blob/master/programmers/matrixMultiplication.py)
+- [문자열 내림차순으로 배치하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/stringReverseSort.py)
+- [124 나라의 숫자](https://github.com/yhs3434/Algorithms/blob/master/programmers/124.py)
+- [2016년](https://github.com/yhs3434/Algorithms/blob/master/programmers/2016year.py)
+- [나누어 떨어지는 숫자 배열](https://github.com/yhs3434/Algorithms/blob/master/programmers/availToDivideNumberArray.py)
+- [시저 암호](https://github.com/yhs3434/Algorithms/blob/master/programmers/caesarCipher.py)
+- [단속 카메라](https://github.com/yhs3434/Algorithms/blob/master/programmers/camera.py)
+- [문자열을 정수로 바꾸기](https://github.com/yhs3434/Algorithms/blob/master/programmers/changeStrToInt.py)
+- [입국심사](https://github.com/yhs3434/Algorithms/blob/master/programmers/entryJudge.py)
+- [N으로 표현](https://github.com/yhs3434/Algorithms/blob/master/programmers/expressN.py)
+- [서울에서 김서방 찾기](https://github.com/yhs3434/Algorithms/blob/master/programmers/findKimInTheSeoul.py)
+- [소수 찾기](https://github.com/yhs3434/Algorithms/blob/master/programmers/findPrimeNumber.py)
+- [H-Index](https://github.com/yhs3434/Algorithms/blob/master/programmers/h-index.py)
+- [문자열 다루기 기본](https://github.com/yhs3434/Algorithms/blob/master/programmers/handleString.py)
+- [조이스틱](https://github.com/yhs3434/Algorithms/blob/master/programmers/joystick.py)
+- [섬 연결하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/linkIsland.py)
+- [큰 수 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/makeBigNum.py)
+- [가장 큰 수](https://github.com/yhs3434/Algorithms/blob/master/programmers/maxNumber.py)
+- [가운데 글자 가져오기](https://github.com/yhs3434/Algorithms/blob/master/programmers/midLecture.py)
+- [네트워크](https://github.com/yhs3434/Algorithms/blob/master/programmers/network.py)
+- [같은 숫자는 싫어](https://github.com/yhs3434/Algorithms/blob/master/programmers/noSameNumber.py)
+- [올바른 괄호](https://github.com/yhs3434/Algorithms/blob/master/programmers/parenthesis.py)
+- [멀쩡한 사각형](https://github.com/yhs3434/Algorithms/blob/master/programmers/rightRect.py)
+- [저울](https://github.com/yhs3434/Algorithms/blob/master/programmers/scale.py)
+- [두 정수 사이의 합](https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfTwoNum.py)
+- [문자열 내 마음대로 정렬하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/stringMySort.py)
+- [문자열 내 p와 y의 개수](https://github.com/yhs3434/Algorithms/blob/master/programmers/pyString.py)
+- [약수의 합](https://github.com/yhs3434/Algorithms/blob/master/programmers/sumOfAliquot.py)
 - [멀리 뛰기](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/longJump.py)
 - [행렬의 덧셈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/matrixAdd.py)
 - [N개의 최소공배수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/NleastCommonMultiple.py)
