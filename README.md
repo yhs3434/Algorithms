@@ -1,7 +1,7 @@
 # 문제 찾기
 
 
-## 프로그래머스
+## Programmers
 
 #### 2018 KAKAO BLIND RECRUITMENT
 
@@ -132,7 +132,7 @@
 - [줄 서는 방법](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/lineCase.py)
 - [N-Queen](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nQueen.py)
 
-## 백준
+## BAEKJOON
 
 - #### 번호별 문제
     - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/assignMeetingRoom.py)
@@ -141,9 +141,10 @@
     
 - #### 단계별 풀기
 
-    - [level 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv1)
-    - [level 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv2)
-
+    - [1. 입출력과 사칙연산](https://github.com/yhs3434/Algorithms/tree/master/baekjun/1.stdio)
+    - [2. if문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/2.if)
+    - [3. for문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/3.for)
+    - [4. while문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/4.while)
 ## SW Expert Academy
 
 - [1767. 프로세서 연결하기](https://github.com/yhs3434/Algorithms/blob/master/SW%20Expert%20Academy/1767.processConnect.py)
