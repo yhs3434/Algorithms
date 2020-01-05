@@ -135,9 +135,9 @@
 ## 백준
 
 - #### 번호별 문제
-    - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py)
-    - [4963. 섬의 개수]()
-    - [17213. 과일 서리](https://github.com/yhs3434/Algorithms/blob/master/baekjun/thiefFruits.py)
+    - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/assignMeetingRoom.py)
+    - [4963. 섬의 개수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/islandAmount.py)
+    - [17213. 과일 서리](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/thiefFruits.py)
     
 - #### 단계별 풀기
 
