@@ -55,7 +55,7 @@
 - [소수 만들기](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/primeNumberMaking.py) (BF, 에라토스테네스의 체)
 - [기지국 설치](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/baseStationInstall.py)
 - [점프와 순간 이동](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/jumpAndTeleport.py)
-- [*** 지형 편집]()
+- [*** 지형 편집](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer_Winter(~2018)/topographyEdit.py) (이분 탐색)
 
 #### 찾아라 프로그래밍 마에스터
 
@@ -134,13 +134,15 @@
 
 ## 백준
 
-- [회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py)
-- [과일 서리](https://github.com/yhs3434/Algorithms/blob/master/baekjun/thiefFruits.py)
+- #### 번호별 문제
+    - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/assignMeetingRoom.py)
+    - [4963. 섬의 개수]()
+    - [17213. 과일 서리](https://github.com/yhs3434/Algorithms/blob/master/baekjun/thiefFruits.py)
     
-#### 단계별 풀기
+- #### 단계별 풀기
 
-- [level 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv1)
-- [level 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv2)
+    - [level 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv1)
+    - [level 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/lv2)
 
 ## SW Expert Academy
 
