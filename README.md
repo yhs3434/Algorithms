@@ -59,8 +59,8 @@
 
 #### 서머코딩 / 윈터코딩 (2019)
 
-- [멀쩡한 사각형]()
-- [종이접기]()
+- [멀쩡한 사각형](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer%20Winter%20(2019)/rightRect.cpp)
+- [종이접기](https://github.com/yhs3434/Algorithms/blob/master/programmers/Summer%20Winter%20(2019)/origami.py)
 
 #### 찾아라 프로그래밍 마에스터
 
@@ -136,6 +136,7 @@
 - [최고의 집합](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/greatSet.py)
 - [줄 서는 방법](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/lineCase.py)
 - [N-Queen](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nQueen.py)
+- [거스름돈]()
 
 ## BAEKJOON
 
