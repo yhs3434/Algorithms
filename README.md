@@ -66,6 +66,7 @@
 
 - [게임 맵 최단거리](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/theShortedGameMap.py)
 - [폰켓몬](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/ponketmon.py)
+- [사칙연산](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/fourFundamentalOperation.py)
 
 #### etc
 
@@ -136,7 +137,7 @@
 - [최고의 집합](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/greatSet.py)
 - [줄 서는 방법](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/lineCase.py)
 - [N-Queen](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nQueen.py)
-- [거스름돈]()
+- [거스름돈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/restMoney.py)
 
 ## BAEKJOON
 
