@@ -140,6 +140,8 @@
 - [거스름돈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/restMoney.py)
 
 ## BAEKJOON
+- #### 카카오 코드 페스티벌
+    - [15953. 상금 헌터]()
 
 - #### 번호별 문제
     - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/assignMeetingRoom.py)
@@ -153,11 +155,14 @@
     - [3. for문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/3.for)
     - [4. while문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/4.while)
     - [5. 실습1]()
-    - [6. 1차원 배열]()
+    - [6. 1차원 배열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/6.firstArray)
 
 ## SW Expert Academy
 
 - [1767. 프로세서 연결하기](https://github.com/yhs3434/Algorithms/blob/master/SW%20Expert%20Academy/1767.processConnect.py)
+- [1004. 어린 왕자]()
+- [1003. 피보나치 함수]()
+- [10844. 쉬운 계단 수]()
 
 ## 알고리즘 문제해결 전략
 
