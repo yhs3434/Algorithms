@@ -66,7 +66,7 @@
 
 - [게임 맵 최단거리](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/theShortedGameMap.py)
 - [폰켓몬](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/ponketmon.py)
-- [사칙연산](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/fourFundamentalOperation.py)
+- [사칙연산](https://github.com/yhs3434/Algorithms/blob/master/programmers/Find%20Programming%20Maester/fourFundamentalOperation.py) (DP)
 
 #### etc
 
@@ -152,6 +152,9 @@
     - [2. if문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/2.if)
     - [3. for문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/3.for)
     - [4. while문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/4.while)
+    - [5. 실습1]()
+    - [6. 1차원 배열]()
+
 ## SW Expert Academy
 
 - [1767. 프로세서 연결하기](https://github.com/yhs3434/Algorithms/blob/master/SW%20Expert%20Academy/1767.processConnect.py)
