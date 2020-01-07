@@ -141,13 +141,16 @@
 
 ## BAEKJOON
 - #### 카카오 코드 페스티벌
-    - [15953. 상금 헌터]()
+    - [15953. 상금 헌터](https://github.com/yhs3434/Algorithms/blob/master/baekjun/2018%20Kakao%20code%20festival/15953.py)
 
 - #### 번호별 문제
     - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/assignMeetingRoom.py)
     - [4963. 섬의 개수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/islandAmount.py)
     - [17213. 과일 서리](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/thiefFruits.py)
-    
+    - [1004. 어린 왕자](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/1004.py)
+    - [1003. 피보나치 함수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/1003.py)
+    - [10844. 쉬운 계단 수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/10844.py)
+
 - #### 단계별 풀기
 
     - [1. 입출력과 사칙연산](https://github.com/yhs3434/Algorithms/tree/master/baekjun/1.stdio)
@@ -160,9 +163,7 @@
 ## SW Expert Academy
 
 - [1767. 프로세서 연결하기](https://github.com/yhs3434/Algorithms/blob/master/SW%20Expert%20Academy/1767.processConnect.py)
-- [1004. 어린 왕자]()
-- [1003. 피보나치 함수]()
-- [10844. 쉬운 계단 수]()
+
 
 ## 알고리즘 문제해결 전략
 
