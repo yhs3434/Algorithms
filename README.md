@@ -138,6 +138,7 @@
 - [줄 서는 방법](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/lineCase.py)
 - [N-Queen](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/nQueen.py)
 - [거스름돈](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/restMoney.py)
+- [방의 개수](https://github.com/yhs3434/Algorithms/blob/master/programmers/etc/amountOfRooms.py)
 
 ## BAEKJOON
 - #### 카카오 코드 페스티벌
