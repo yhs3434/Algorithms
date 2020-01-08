@@ -1,5 +1,5 @@
 # 랭킹
-- ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72000754-510cf980-3287-11ea-9c8e-c6514642b5e8.PNG)
+- ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
 -  ![백준2](https://user-images.githubusercontent.com/24651852/72000757-52d6bd00-3287-11ea-97e5-ab7cf0f506c4.PNG)
 
