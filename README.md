@@ -160,8 +160,10 @@
     - [4. while문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/4.while)
     - [5. 실습1]()
     - [6. 1차원 배열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/6.firstArray)
-    - [7. 함수]()
-    - [8. 문자열]()
+    - [7. 함수](https://github.com/yhs3434/Algorithms/tree/master/baekjun/7.function)
+    - [8. 문자열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/8.string)
+    - [9. 수학1]()
+    - [10. 수학2]()
 
 ## SW Expert Academy
 
