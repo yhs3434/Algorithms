@@ -1,7 +1,7 @@
 # 랭킹
 - ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
--  ![백준2](https://user-images.githubusercontent.com/24651852/72000757-52d6bd00-3287-11ea-97e5-ab7cf0f506c4.PNG)
+-  ![백준2](https://user-images.githubusercontent.com/24651852/72065227-1e174400-3321-11ea-98c8-8b7d719ec5de.PNG)
 
 # 문제 찾기
 
@@ -172,7 +172,7 @@
     - [11. 재귀](https://github.com/yhs3434/Algorithms/tree/master/baekjun/11.reflexive)
     - [12. 실습2]()
     - [13. 브루트 포스](https://github.com/yhs3434/Algorithms/tree/master/baekjun/13.bruteforce)
-    - [14. 정렬]()
+    - [14. 정렬](https://github.com/yhs3434/Algorithms/tree/master/baekjun/14.sort)
 
 ## SW Expert Academy
 
