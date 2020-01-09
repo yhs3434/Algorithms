@@ -167,11 +167,11 @@
     - [6. 1차원 배열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/6.firstArray)
     - [7. 함수](https://github.com/yhs3434/Algorithms/tree/master/baekjun/7.function)
     - [8. 문자열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/8.string)
-    - [9. 수학1]()
-    - [10. 수학2]()
-    - [11. 재귀]()
+    - [9. 수학1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/9.math1)
+    - [10. 수학2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/10.math2)
+    - [11. 재귀](https://github.com/yhs3434/Algorithms/tree/master/baekjun/11.reflexive)
     - [12. 실습2]()
-    - [13. 브루트 포스]()
+    - [13. 브루트 포스](https://github.com/yhs3434/Algorithms/tree/master/baekjun/13.bruteforce)
     - [14. 정렬]()
 
 ## SW Expert Academy
