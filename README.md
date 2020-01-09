@@ -169,6 +169,10 @@
     - [8. 문자열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/8.string)
     - [9. 수학1]()
     - [10. 수학2]()
+    - [11. 재귀]()
+    - [12. 실습2]()
+    - [13. 브루트 포스]()
+    - [14. 정렬]()
 
 ## SW Expert Academy
 
