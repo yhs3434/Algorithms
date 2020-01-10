@@ -8,7 +8,7 @@
 ![백준2](https://user-images.githubusercontent.com/24651852/72065227-1e174400-3321-11ea-98c8-8b7d719ec5de.PNG)
 
 # 문제 찾기
-
+참고 : 백준에서 파이썬 코드 미통과시 pypy3로 제출해주세요.
 
 ## Programmers
 
@@ -177,7 +177,7 @@
     12. [실습2]()
     13. [브루트 포스](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/13.bruteforce)
     14. [정렬](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/14.sort)
-    15. [백트래킹]()
+    15. [백트래킹](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/15.backtracking)
     16. [동적 계획법 1]()
     17. [실습3]()
     18. [그리디 알고리즘](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/18.greedy)
