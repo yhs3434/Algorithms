@@ -1,7 +1,11 @@
 # 랭킹
-- ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
--  ![백준2](https://user-images.githubusercontent.com/24651852/72065227-1e174400-3321-11ea-98c8-8b7d719ec5de.PNG)
+- 프로그래머스 : 16위
+- 백준 : 9254위
+
+![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
+
+![백준2](https://user-images.githubusercontent.com/24651852/72065227-1e174400-3321-11ea-98c8-8b7d719ec5de.PNG)
 
 # 문제 찾기
 
@@ -159,24 +163,24 @@
 
 - #### 단계별 풀기
 
-    1. [입출력과 사칙연산](https://github.com/yhs3434/Algorithms/tree/master/baekjun/1.stdio)
-    2. [if문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/2.if)
-    3. [for문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/3.for)
-    4. [while문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/4.while)
+    1. [입출력과 사칙연산](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/01.stdio)
+    2. [if문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/02.if)
+    3. [for문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/03.for)
+    4. [while문](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/04.while)
     5. [실습1]()
-    6. [1차원 배열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/6.firstArray)
-    7. [함수](https://github.com/yhs3434/Algorithms/tree/master/baekjun/7.function)
-    8. [문자열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/8.string)
-    9. [수학1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/9.math1)
-    10. [수학2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/10.math2)
-    11. [재귀](https://github.com/yhs3434/Algorithms/tree/master/baekjun/11.reflexive)
+    6. [1차원 배열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/06.firstArray)
+    7. [함수](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/07.function)
+    8. [문자열](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/08.string)
+    9. [수학1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/09.math1)
+    10. [수학2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/10.math2)
+    11. [재귀](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/11.reflexive)
     12. [실습2]()
-    13. [브루트 포스](https://github.com/yhs3434/Algorithms/tree/master/baekjun/13.bruteforce)
-    14. [정렬](https://github.com/yhs3434/Algorithms/tree/master/baekjun/14.sort)
+    13. [브루트 포스](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/13.bruteforce)
+    14. [정렬](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/14.sort)
     15. [백트래킹]()
     16. [동적 계획법 1]()
     17. [실습3]()
-    18. [그리디 알고리즘]()
+    18. [그리디 알고리즘](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/18.greedy)
     19. [수학3]()
     20. [스택]()
 
