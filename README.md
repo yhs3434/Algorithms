@@ -178,7 +178,7 @@
     13. [브루트 포스](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/13.bruteforce)
     14. [정렬](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/14.sort)
     15. [백트래킹](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/15.backtracking)
-    16. [동적 계획법 1]()
+    16. [동적 계획법 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/16.dp)
     17. [실습3]()
     18. [그리디 알고리즘](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/18.greedy)
     19. [수학3]()
