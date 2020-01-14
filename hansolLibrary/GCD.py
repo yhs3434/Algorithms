@@ -1,8 +1,4 @@
-def getGCD(n, m):
-    a, b = n, m
-    while n!=m:
-        if n>m:
-            n = abs(n-m)
-        else:
-            m = abs(n-m)
-    return n
+def getGCD(a,b):
+    while b > 0:
+        a, b = b, a % b
+    return a
