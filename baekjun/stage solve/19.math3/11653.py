@@ -13,21 +13,21 @@ def getPrimes(m, n):
     return primes
 
 def solution(n):
-    if n==1:
-        return 1
-    primes = getPrimes(1, n)
-    primes.sort(reverse=True)
-    cp = 999999
     answer = []
-    while n>1:
-        while primes and n%cp != 0:
-            cp = primes.pop()
-        answer.append(cp)
-        n //= cp
+    if n==1:
+        return []
+    i = 2
+    while i <= n:
+        if n % i == 0:
+            answer.append(i)
+            n //= i
+        else:
+            i += 1
     return answer
 
 n = int(input())
 answer = solution(n)
 answer.sort()
-for a in answer:
-    print(a)
+if answer:
+    for a in answer:
+        print(a)
