@@ -1,7 +1,7 @@
 # 랭킹
 
 - 프로그래머스 : 16위
-- 백준 : 5090위
+- 백준 : 4891위
 
 ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
