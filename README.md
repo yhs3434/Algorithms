@@ -181,9 +181,13 @@
     16. [동적 계획법 1](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/16.dp)
     17. [실습3]()
     18. [그리디 알고리즘](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/18.greedy)
-    19. [수학3]()
-    20. [스택]()
-    21. [큐, 덱]()
+    19. [수학3](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/19.math3)
+    20. [스택](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/20.stack)
+    21. [큐, 덱](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/21.queue_deck)
+    23. [분할 정복]()
+    24. [이분 탐색]()
+    25. [우선순위 큐]()
+    26. [동적 계획법 2]()
 
 ## SW Expert Academy
 
