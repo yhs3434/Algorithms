@@ -1,7 +1,7 @@
 # 랭킹
 
 - 프로그래머스 : 16위
-- 백준 : 5945위
+- 백준 : 5297위
 
 ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
@@ -184,8 +184,8 @@
     19. [수학3](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/19.math3)
     20. [스택](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/20.stack)
     21. [큐, 덱](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/21.queue_deck)
-    23. [분할 정복]()
-    24. [이분 탐색]()
+    23. [분할 정복](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/23.divideConquer)
+    24. [이분 탐색](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/24.binarySearch)
     25. [우선순위 큐]()
     26. [동적 계획법 2]()
 
