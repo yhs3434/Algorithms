@@ -154,8 +154,8 @@
     - [15953. 상금 헌터](https://github.com/yhs3434/Algorithms/blob/master/baekjun/2018%20Kakao%20code%20festival/15953.py)
 
 - #### shake! 2019
-    - [17300. 패턴]()
-    - [17301. NC 문자열]()
+    - [17300. 패턴](https://github.com/yhs3434/Algorithms/blob/master/baekjun/challenge/shake!2019/17300.py)
+    - [17301. NC 문자열](https://github.com/yhs3434/Algorithms/blob/master/baekjun/challenge/shake!2019/17301.py)
 
 - #### 번호별 문제
     - [1931. 회의실 배정](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/assignMeetingRoom.py)

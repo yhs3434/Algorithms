@@ -78,11 +78,11 @@ for xxx in range(n):
             #ncs['CN'] += 1
             ncs2[3] += 1
 
-volDp = [0] * (n+1)
+volDp = [0] * (11)
 volDp[0] = 1
-for i in range(1, n+1):
+for i in range(1, 11):
     volDp[i] = (volDp[i-1] * i + 1)%_MOD_
-
+print(volDp)
 totalVol = volDp[n]
 #cVol = volDp[ncs['C']]
 cVol = volDp[ncs2[1]]
