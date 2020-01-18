@@ -5,7 +5,7 @@
 
 ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
-![백준2](https://user-images.githubusercontent.com/24651852/72065227-1e174400-3321-11ea-98c8-8b7d719ec5de.PNG)
+![image](https://user-images.githubusercontent.com/24651852/72665850-b911cb80-3a4f-11ea-9880-ddde472fb360.png)
 
 # 문제 찾기
 참고 : 백준에서 파이썬 코드 미통과시 pypy3로 제출해주세요.
