@@ -190,8 +190,10 @@
     21. [큐, 덱](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/21.queue_deck)
     23. [분할 정복](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/23.divideConquer)
     24. [이분 탐색](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/24.binarySearch)
-    25. [우선순위 큐]()
-    26. [동적 계획법 2]()
+    25. [우선순위 큐](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/25.heap)
+    26. [동적 계획법 2](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/26.dp2)
+    27. 실습5
+    28. [DFS와 BFS](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/28.DFSandBFS)
 
 ## SW Expert Academy
 
