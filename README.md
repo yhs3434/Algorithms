@@ -1,7 +1,7 @@
 # 랭킹
 
 - 프로그래머스 : 16위
-- 백준 : 1751위
+- 백준 : 1617위
 
 ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
@@ -172,8 +172,8 @@
         - [11052. 카드 구매하기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/11052.py)
         - [14501. 퇴사](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/14501.py)
     - 위상 정렬
-        - [1766. 문제집]()
-        - [2252. 줄 세우기]()
+        - [1766. 문제집](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/TopologicalSort/1766.py)
+        - [2252. 줄 세우기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/TopologicalSort/2252.py)
 
 - #### 단계별 풀기
 
