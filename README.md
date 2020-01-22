@@ -168,9 +168,9 @@
 - #### 알고리즘 분류
 
     - DP
-        - [2193. 이친수]()
-        - [11052. 카드 구매하기]()
-        - [14501. 퇴사]()
+        - [2193. 이친수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/2193.py)
+        - [11052. 카드 구매하기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/11052.py)
+        - [14501. 퇴사](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/14501.py)
     - 위상 정렬
         - [1766. 문제집]()
         - [2252. 줄 세우기]()
