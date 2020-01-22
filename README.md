@@ -165,6 +165,16 @@
     - [1003. 피보나치 함수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/1003.py)
     - [10844. 쉬운 계단 수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/exercise/10844.py)
 
+- #### 알고리즘 분류
+
+    - DP
+        - [2193. 이친수]()
+        - [11052. 카드 구매하기]()
+        - [14501. 퇴사]()
+    - 위상 정렬
+        - [1766. 문제집]()
+        - [2252. 줄 세우기]()
+
 - #### 단계별 풀기
 
     1. [입출력과 사칙연산](https://github.com/yhs3434/Algorithms/tree/master/baekjun/stage%20solve/01.stdio)
