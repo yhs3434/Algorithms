@@ -171,9 +171,29 @@
         - [2193. 이친수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/2193.py)
         - [11052. 카드 구매하기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/11052.py)
         - [14501. 퇴사](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/14501.py)
+        - [12920. 평범한 배낭 2](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/12920.py)
+        - [9507. Generations of Tribbles](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/DP/9507.py)
     - 위상 정렬
         - [1766. 문제집](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/TopologicalSort/1766.py)
         - [2252. 줄 세우기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/TopologicalSort/2252.py)
+        - [1005. ACM Craft](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/TopologicalSort/1005.py)
+    - 브루트 포스
+        - [15683. 감시](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/bruteforce/15683.py)
+    - 다익스트라
+        - [1261. 알고스팟](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/dijkstra/1261.py)
+        - [1753. 최단경로](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/dijkstra/1753.py)
+        - [1916. 최소비용 구하기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/dijkstra/1916.py)
+    - 구현
+        - [10539. 수빈이와 수열](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/realization/10539.py)
+        - [10551. STROJOPIS](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/realization/10551.py)
+        - [10707. 수도요금](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/realization/10707.py)
+        - [10798. 세로읽기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/realization/10798.py)
+        - [10984. 내 학점을 구해줘](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/realization/10984.py)
+    - 시뮬레이션
+        - [14503. 로봇 청소기](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/simulation/14503.py)
+        - [3055. 탈출](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/simulation/3055.py)
+    - 문자열
+        - [10808. 알파벳 개수](https://github.com/yhs3434/Algorithms/blob/master/baekjun/classification/string/10808.py)
 
 - #### 단계별 풀기
 
