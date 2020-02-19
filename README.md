@@ -1,13 +1,17 @@
 # 랭킹
 
 - 프로그래머스 : 16위
-- 백준 : 1021위
+- 백준 : 1024위
 
 ![프로그래머스2](https://user-images.githubusercontent.com/24651852/72001034-e27c6b80-3287-11ea-804f-d65a38fac27a.PNG)
 
 ![image](https://user-images.githubusercontent.com/24651852/72665850-b911cb80-3a4f-11ea-9880-ddde472fb360.png)
 
-# 문제 찾기
+## 이슈
+
+건강상 이유로 잠시 쉴게요.. 코로나는 아니고 뇌졸중 증세가 또 와서.. ㅠ
+
+## 문제 찾기
 참고 : 백준에서 파이썬 코드 미통과시 pypy3로 제출해주세요.
 
 ## Programmers
