@@ -19,7 +19,25 @@ for _ in range(K):
 
     st = []
     for i in range(1, V+1):
-        st.append(i)
+        if colors[i] == 0:
+            colors[i] = 1
+            st.append(i)
 
-    while st:
-        cur = st.pop()
+            while st:
+                here = st.pop()
+                for there in myhash[here]:
+                    if colors[there] == 0:
+                        colors[there] = 2 if colors[here]==1 else 1
+                        st.append(there)
+
+    flag = True
+    for here in range(1, V+1):
+        if flag:
+            for there in myhash[here]:
+                if colors[here] == colors[there]:
+                    flag = False
+                    break
+    if flag:
+        print('YES')
+    else:
+        print('NO')
