@@ -115,3 +115,5 @@ Test/
 a_solving/
 
 # End of https://www.gitignore.io/api/pycharm
+
+test/
