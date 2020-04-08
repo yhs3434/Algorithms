@@ -49,11 +49,11 @@
 
 - #### 2019 카카오 개발자 겨울 인턴쉽
 
-    - [크레인 인형뽑기 게임]
-    - [튜플]
-    - [불량 사용자]
-    - [호텔 방 배정]
-    - [징검다리 건너기]
+    - [크레인 인형뽑기 게임](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20WINTER%20Internship/pickToyGame.py)
+    - [튜플](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20WINTER%20Internship/tuple.py)
+    - [불량 사용자](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20WINTER%20Internship/poorClient.py)
+    - [호텔 방 배정](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20WINTER%20Internship/hotelRoom.py)
+    - [징검다리 건너기](https://github.com/yhs3434/Algorithms/blob/master/programmers/2019%20KAKAO%20WINTER%20Internship/steppingStone.py)
 
 - #### 2017 TIPS TOWN
 
