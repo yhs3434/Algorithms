@@ -47,6 +47,14 @@
     - [외벽 점검](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/inspectOutsideWall.py) (Brute Force, BFS)
     - [블록 이동하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/moveBlock.py) (BFS, DP)
 
+- #### 2019 카카오 개발자 겨울 인턴쉽
+
+    - [크레인 인형뽑기 게임]
+    - [튜플]
+    - [불량 사용자]
+    - [호텔 방 배정]
+    - [징검다리 건너기]
+
 - #### 2017 TIPS TOWN
 
     - [짝지어 제거하기](https://github.com/yhs3434/Algorithms/blob/master/programmers/2017%20TIPS%20TOWN/deleteCombine.py) (stack)
